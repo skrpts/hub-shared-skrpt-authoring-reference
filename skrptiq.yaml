@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "e9e59452-a0a4-4b4f-90ff-cfcc74221084"
+id: "d5ca95ce-ec9a-4821-8d8a-e3a824124e32"
 name: "skrpt-authoring-reference"
 display_name: "Skrpt Authoring Reference"
 description: "Complete reference for skrpt structure: node types, connections, variables, execution model, manifest format"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
